@@ -1,0 +1,5 @@
+pID,Type,Name,Brand,Price
+1,F,Gofret,Ulker,4.00
+2,F,Sakız,Sak,2.00
+3,D,Su,Abant,5.00
+4,D,Kola,Pepsi,10.00
